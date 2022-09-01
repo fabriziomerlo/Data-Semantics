@@ -1,0 +1,61 @@
+,name,link_dbpedia,entity,second_link
+0,Regulus Arcturus Black,http://dbpedia.org/resource/Regulus_Arcturus_Black,Regulus, http://dbpedia.org/resource/Death_Eater
+1,Sirius Black,http://dbpedia.org/resource/Sirius_Black,Sirius
+2,Lavender Brown,http://dbpedia.org/resource/Lavender_Brown,Lavander
+3,Cho Chang,http://dbpedia.org/resource/Cho_Chang,Cho
+4,Vincent Crabbe,http://dbpedia.org/resource/Vincent_Crabbe,Crabbe
+7,Fleur Delacour,http://dbpedia.org/resource/Fleur_Delacour,Fleur
+8,Cedric Diggory,http://dbpedia.org/resource/Cedric_Diggory,Cedric
+9,Aberforth Dumbledore,http://dbpedia.org/resource/Aberforth_Dumbledore,Aberforth
+10,Albus Dumbledore,http://dbpedia.org/resource/Albus_Dumbledore,Dumbledore
+11,Dudley Dursley,http://dbpedia.org/resource/Dudley_Dursley,Dubley
+12,Petunia Dursley,http://dbpedia.org/resource/Petunia_Dursley,Petunia
+13,Vernon Dursley,http://dbpedia.org/resource/Vernon_Dursley,Vernon
+14,Argus Filch,http://dbpedia.org/resource/Argus_Filch,Filch
+15,Seamus Finnigan,http://dbpedia.org/resource/Seamus_Finnigan,Seamus
+16,Nicolas Flamel,http://dbpedia.org/resource/Nicolas_Flamel,Nicolas Flamel
+17,Cornelius Fudge,http://dbpedia.org/resource/Cornelius_Fudge,Cornelius
+18,Gregory Goyle,http://dbpedia.org/resource/Gregory_Goyle,Goyle,http://dbpedia.org/resource/Death_Eater
+19,Hermione Granger,http://dbpedia.org/resource/Hermione_Granger,Hermione
+20,Rubeus Hagrid,http://dbpedia.org/resource/Rubeus_Hagrid,Hagrid
+21,Igor Karkaroff,http://dbpedia.org/resource/Igor_Karkaroff,Karkaroff
+22,Viktor Krum,http://dbpedia.org/resource/Viktor_Krum,Krum
+23,Bellatrix Lestrange,http://dbpedia.org/resource/Bellatrix_Lestrange,Bellatrix,http://dbpedia.org/resource/Death_Eater
+24,Alice Longbottom,http://dbpedia.org/resource/Alice_Longbottom,Alice Longbottom
+25,Frank Longbottom,http://dbpedia.org/resource/Frank_Longbottom,Frank Longbottom
+26,Neville Longbottom,http://dbpedia.org/resource/Neville_Longbottom,Neville
+27,Luna Lovegood,http://dbpedia.org/resource/Luna_Lovegood,Luna
+28,Xenophilius Lovegood,http://dbpedia.org/resource/Xenophilius_Lovegood,Xenophilius
+29,Remus Lupin,http://dbpedia.org/resource/Remus_Lupin,Lupin
+30,Draco Malfoy,http://dbpedia.org/resource/Draco_Malfoy,Draco
+31,Lucius Malfoy,http://dbpedia.org/resource/Lucius_Malfoy,Lucius, http://dbpedia.org/resource/Death_Eater
+32,Narcissa Malfoy,http://dbpedia.org/resource/Narcissa_Malfoy,Narcissa
+33,Olympe Maxime,http://dbpedia.org/resource/Olympe_Maxime,Olympe
+34,Minerva McGonagall,http://dbpedia.org/resource/Minerva_McGonagall,McGonagall
+35,Alastor Mad-Eye Moody ,http://dbpedia.org/resource/Alastor_%22Mad-Eye%22_Moody,Moody
+36,Peter Pettigrew,http://dbpedia.org/resource/Peter_Pettigrew,Wormtail, http://dbpedia.org/resource/Death_Eater
+37,Harry Potter,http://dbpedia.org/resource/Harry_Potter,Harry
+38,James Potter,http://dbpedia.org/resource/James_Potter,James Potter
+39,Lily Potter,http://dbpedia.org/resource/Lily_Potter,Lily Potter
+40,Quirinus Quirrell,http://dbpedia.org/resource/Quirinus_Quirrell,Quirinus Quirrell
+41,Mary Riddle,http://dbpedia.org/resource/Mary_Riddle,Mary Riddle
+42,Lord Voldemort,http://dbpedia.org/resource/Lord_Voldemort,Voldemort
+43,Rita Skeeter,http://dbpedia.org/resource/Rita_Skeeter,Rita Skeeter
+44,Severus Snape,http://dbpedia.org/resource/Severus_Snape,Snape
+45,Nymphadora Tonks,http://dbpedia.org/resource/Nymphadora_Tonks,Nymphadora
+46,Dolores Umbridge,http://dbpedia.org/resource/Dolores_Umbridge,Umbridge
+47,Arthur Weasley,http://dbpedia.org/resource/Arthur_Weasley,Arthur
+48,Bill Weasley,http://dbpedia.org/resource/Bill_Weasley,Bill
+49,Charlie Weasley,http://dbpedia.org/resource/Charlie_Weasley,Charlie
+50,Fred Weasley,http://dbpedia.org/resource/Fred_Weasley,Fred
+51,George Weasley,http://dbpedia.org/resource/George_Weasley,George
+52,Ginny Weasley,http://dbpedia.org/resource/Ginny_Weasley,Ginny
+53,Molly Weasley,http://dbpedia.org/resource/Molly_Weasley,Molly
+54,Percy Weasley,http://dbpedia.org/resource/Percy_Weasley,Percy
+55,Ron Weasley,http://dbpedia.org/resource/Ron_Weasley,Ron
+56,Dobby,http://dbpedia.org/resource/Dobby,Dobby, http://dbpedia.org/resource/Magical_creatures_in_Harry_Potter
+57,Fluffy,http://dbpedia.org/resource/Fluffy,Fluffy, http://dbpedia.org/resource/Magical_creatures_in_Harry_Potter
+58,Hedwig,http://dbpedia.org/resource/Hedwig,Hedwig, http://dbpedia.org/resource/Magical_creatures_in_Harry_Potter
+59,Moaning Myrtle,http://dbpedia.org/resource/Moaning_Myrtle,Myrtle
+60,Aragog,http://dbpedia.org/resource/Aragog,Aragog, http://dbpedia.org/resource/Magical_creatures_in_Harry_Potter
+61,Grawp,http://dbpedia.org/resource/Grawp,Grawp, http://dbpedia.org/resource/Magical_creatures_in_Harry_Potter
